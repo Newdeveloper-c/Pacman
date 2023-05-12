@@ -1,2 +1,2 @@
 # Pacman
-PacMan game created on C++
+PacMan game created on C++ with help of CFML 
